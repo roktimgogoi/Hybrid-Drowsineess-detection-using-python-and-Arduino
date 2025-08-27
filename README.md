@@ -1,2 +1,14 @@
 # Open-CV
-Open Desktop Camera Using Open CV (CV2) . The simple task of open Cv by using pretrained XML files.
+1st stage : Uding liv.py file
+Live Face Detection using OpenCV 
+
+This project demonstrates **real-time face detection** using OpenCV and a pre-trained Haar Cascade classifier.  
+The webcam is used to capture live video frames, and faces are detected and highlighted with green rectangles (BGR format).
+---
+## 📌 Requirements
+- Python 3.x  
+- OpenCV (`cv2`)
+- 
+Install dependencies:
+```bash
+pip install opencv-python
