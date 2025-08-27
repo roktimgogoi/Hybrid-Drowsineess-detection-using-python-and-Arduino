@@ -10,5 +10,8 @@ The webcam is used to capture live video frames, and faces are detected and high
 - OpenCV (`cv2`)
   
 Install dependencies:
-```bash
+``bash
 pip install opencv-python
+
+
+
