@@ -14,7 +14,7 @@ Install dependencies:
 pip install opencv-python
 ```
 # Drowsiness Detection using OpenCV & Dlib
-##2nd Stage: Using liv3.py file
+## 2nd Stage: Using liv3.py file
 
 This project detects **drowsiness and eye blinks** in real time using a webcam.  
 It uses:
