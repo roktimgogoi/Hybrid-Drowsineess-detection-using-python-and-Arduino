@@ -42,6 +42,16 @@ pip install opencv-python dlib imutils numpy
 This Arduino code reads values from a GSR (Galvanic Skin Response) sensor connected to pin A0 and calculates both the averaged
 sensor reading and an estimated human skin resistance, then prints these values over serial output.
 
+# Drowsiness Detection using GSR sensor connected in arduino Uno +Buzzer
+## 4 th stage: using Drowiness_Detection_Final_Arduino.ino file 
+This reads the GSR average and listens for a command from Python:
+
+'1' → buzzer ON
+
+'0' → buzzer OFF
+
+# Drowsiness Detection using OpenCV & Dlib final Code 
+## 5 th stage: livefinal.py file
 
 
 
