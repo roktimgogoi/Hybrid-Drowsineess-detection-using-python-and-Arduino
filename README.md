@@ -53,7 +53,10 @@ This reads the GSR average and listens for a command from Python:
 # Drowsiness Detection using OpenCV & Dlib final Code 
 ## 5 th stage: livefinal.py file
 
-
+Install dependencies:
+```bash
+pip install seriel
+```
 
 
 
