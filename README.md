@@ -35,3 +35,15 @@ Install dependencies:
 ```bash
 pip install opencv-python dlib imutils numpy
 ```
+# Drowsiness Detection using GSR sensor connected in arduino 
+##3rd stage: using Driver_Drowiness_Detection_Arduino.ino file 
+
+
+This Arduino code reads values from a GSR (Galvanic Skin Response) sensor connected to pin A0 and calculates both the averaged
+sensor reading and an estimated human skin resistance, then prints these values over serial output.
+
+
+
+
+
+
